@@ -1,0 +1,11 @@
+Faça um algoritmo que leia o seu nome e escreva o seu nome no console.
+
+programa {
+  funcao inicio() {
+    cadeia nome
+    escreva("Digite seu nome: ")
+    leia(nome)
+
+    escreva("Olá, ", nome, "!")
+  }
+}
