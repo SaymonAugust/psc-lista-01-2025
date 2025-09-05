@@ -1,0 +1,8 @@
+Faça um algoritmo que escreva “Olá, Mundo” na tela do console.
+Utilize a linguagem Java para isso.
+
+public class OlaMundo {
+  public static void main (String[] args){
+    system.out.println("Olá, Mundo");
+  }
+}
